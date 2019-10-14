@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/dev/codecommit/dev/funsets" value="1462316240000" />
+        <entry key="$USER_HOME$/dev/codecommit/dev/objsets" value="1462319246000" />
+        <entry key="$USER_HOME$/dev/codecommit/dev/recfun" value="1462369130000" />
+        <entry key="$USER_HOME$/dev/codecommit/dev/scala-example" value="1459516374000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
